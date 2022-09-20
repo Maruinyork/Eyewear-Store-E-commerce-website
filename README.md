@@ -11,9 +11,9 @@ Proyecto con 4 paginas-HTML+CSS+JS (slider+carrito de compras funcional)
 
 [![5.png](https://i.postimg.cc/vZphVCZ2/5.png)](https://postimg.cc/TKJn87mn)
 
-[![7.png](https://i.postimg.cc/prhyzcTk/7.png)](https://postimg.cc/ctWsNmf8)
-
 [![6.png](https://i.postimg.cc/nVSHqf61/6.png)](https://postimg.cc/9zT5jKX4)
+
+[![7.png](https://i.postimg.cc/rF6QzKfX/7.png)](https://postimg.cc/xqRK4Trt)
 
 
 
